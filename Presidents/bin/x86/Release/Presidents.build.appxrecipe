@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MC-CHZHA4-XA</Machine>
+    <WindowsUser>v-chzha4</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>7de8ff78-7b52-4e1c-8726-459bb67f3e2c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=6B0E04BB-E44B-43CE-89DF-DBA5BC33E3A2</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\1024px-James_Madison.jpg">
+      <PackagePath>Assets\1024px-James_Madison.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\165px-James_Madison.jpg">
+      <PackagePath>Assets\165px-James_Madison.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\165px-William_Henry_Harrison_daguerreotype_edit.jpg">
+      <PackagePath>Assets\165px-William_Henry_Harrison_daguerreotype_edit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\44_Bill_Clinton_3x4.jpg">
+      <PackagePath>Assets\44_Bill_Clinton_3x4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Abraham_Lincoln.jpg">
+      <PackagePath>Assets\Abraham_Lincoln.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Andrew_Jackson_Daguerrotype-crop.jpg">
+      <PackagePath>Assets\Andrew_Jackson_Daguerrotype-crop.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Andrew_Johnson.jpg">
+      <PackagePath>Assets\Andrew_Johnson.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\arthur21.jpg">
+      <PackagePath>Assets\arthur21.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Calvin_Coolidge_cph_3g10777.jpg">
+      <PackagePath>Assets\Calvin_Coolidge_cph_3g10777.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\CodeFile.txt">
+      <PackagePath>Assets\CodeFile.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\declaration_of_independence.JPG">
+      <PackagePath>Assets\declaration_of_independence.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\emancipation.JPG">
+      <PackagePath>Assets\emancipation.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Flag_of_the_United_States.svg.png">
+      <PackagePath>Assets\Flag_of_the_United_States.svg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Franklin_D__Roosevelt.jpg">
+      <PackagePath>Assets\Franklin_D__Roosevelt.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Franklin_Pierce_MathewBrady.jpg">
+      <PackagePath>Assets\Franklin_Pierce_MathewBrady.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\garfield20.jpg">
+      <PackagePath>Assets\garfield20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\George-W-Bush.jpg">
+      <PackagePath>Assets\George-W-Bush.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\George_H._W._Bush_President_of_the_United_States_1989_official_portrait.jpg">
+      <PackagePath>Assets\George_H._W._Bush_President_of_the_United_States_1989_official_portrait.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\george_washington_deleware.JPG">
+      <PackagePath>Assets\george_washington_deleware.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Gerald_Ford_-_NARA_-_530680.jpg">
+      <PackagePath>Assets\Gerald_Ford_-_NARA_-_530680.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg">
+      <PackagePath>Assets\Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\grover22.png">
+      <PackagePath>Assets\grover22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\grover24.jpg">
+      <PackagePath>Assets\grover24.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\harrison23.jpg">
+      <PackagePath>Assets\harrison23.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Harry_S__Truman.jpg">
+      <PackagePath>Assets\Harry_S__Truman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\JamesKPolk.jpg">
+      <PackagePath>Assets\JamesKPolk.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\James_Buchanan.jpg">
+      <PackagePath>Assets\James_Buchanan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\James_Earl__Jimmy__Carter_-_NARA_-_558522.jpg">
+      <PackagePath>Assets\James_Earl__Jimmy__Carter_-_NARA_-_558522.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\James_Monroe_White_House_portrait_1819.gif">
+      <PackagePath>Assets\James_Monroe_White_House_portrait_1819.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\John_F__Kennedy.jpg">
+      <PackagePath>Assets\John_F__Kennedy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\JQA_Photo_tif.jpg">
+      <PackagePath>Assets\JQA_Photo_tif.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Lyndon_B._Johnson_Oval_Office_Portrait.jpg">
+      <PackagePath>Assets\Lyndon_B._Johnson_Oval_Office_Portrait.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Martin_Van_Buren_by_Mathew_Brady_c1855-58.jpg">
+      <PackagePath>Assets\Martin_Van_Buren_by_Mathew_Brady_c1855-58.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\mckinley25.jpg">
+      <PackagePath>Assets\mckinley25.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Millard_Fillmore_by_Brady_Studio.jpg">
+      <PackagePath>Assets\Millard_Fillmore_by_Brady_Studio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Official_Portrait_of_President_Reagan_1981.jpg">
+      <PackagePath>Assets\Official_Portrait_of_President_Reagan_1981.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Official_Presidential_portrait_of_John_Adams_%28by_John_Trumbull,_circa_1792%29.jpg">
+      <PackagePath>Assets\Official_Presidential_portrait_of_John_Adams_%28by_John_Trumbull,_circa_1792%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale,_1800%29.jpg">
+      <PackagePath>Assets\Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale,_1800%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\President_Andrew_Johnson.jpg">
+      <PackagePath>Assets\President_Andrew_Johnson.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\President_Barack_Obama.jpg">
+      <PackagePath>Assets\President_Barack_Obama.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\President_Eisenhower.jpg">
+      <PackagePath>Assets\President_Eisenhower.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\President_Hoover_portrait_tif.jpg">
+      <PackagePath>Assets\President_Hoover_portrait_tif.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\President_Wilson_1919_tif.jpg">
+      <PackagePath>Assets\President_Wilson_1919_tif.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Richard_M._Nixon_NARA_-_530679.jpg">
+      <PackagePath>Assets\Richard_M._Nixon_NARA_-_530679.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\roosevelt26.jpg">
+      <PackagePath>Assets\roosevelt26.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Rutherford_Hayes_MathewBrady.jpg">
+      <PackagePath>Assets\Rutherford_Hayes_MathewBrady.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\signing_constitution.JPG">
+      <PackagePath>Assets\signing_constitution.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\The_Peacemakers_1868_cropped.jpg">
+      <PackagePath>Assets\The_Peacemakers_1868_cropped.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg">
+      <PackagePath>Assets\Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Tyler_Daguerreotype_%28restoration%29.jpg">
+      <PackagePath>Assets\Tyler_Daguerreotype_%28restoration%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Ulysses_Grant.jpg">
+      <PackagePath>Assets\Ulysses_Grant.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Warren_G_Harding-Harris_&amp;_Ewing.jpg">
+      <PackagePath>Assets\Warren_G_Harding-Harris_&amp;_Ewing.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\WashingtonCropped.JPG">
+      <PackagePath>Assets\WashingtonCropped.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\William_Howard_Taft_1909.jpg">
+      <PackagePath>Assets\William_Howard_Taft_1909.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Assets\Zachary_Taylor.png">
+      <PackagePath>Assets\Zachary_Taylor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Presidents.dll">
+      <PackagePath>Presidents.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Presidents.exe">
+      <PackagePath>Presidents.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\Presidents.pdb">
+      <PackagePath>Presidents.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\WatsonRegistrationUtility.dll">
+      <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\bin\x86\Release\ilc\WatsonRegistrationUtility.winmd">
+      <PackagePath>WatsonRegistrationUtility.winmd</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.1\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx">
+      <Name>Microsoft.NET.Native.Framework.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.1\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.6.1\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx">
+      <Name>Microsoft.NET.Native.Framework.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.6.1\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.6.1\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx">
+      <Name>Microsoft.NET.Native.Framework.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.6.1\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.6.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.6.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.6.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.6.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.6.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.6.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.6</Name>
+      <Version>1.6.24903.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.6, MinVersion = 1.6.24903.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.6.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

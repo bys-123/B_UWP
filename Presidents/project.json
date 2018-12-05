@@ -1,0 +1,23 @@
+﻿{
+  "dependencies": {
+    "Microsoft.AppCenter": "1.10.0",
+    "Microsoft.AppCenter.Analytics": "1.10.0",
+    "Microsoft.AppCenter.Crashes": "1.10.0",
+    "Microsoft.AppCenter.Push": "1.10.0",
+    "Microsoft.ApplicationInsights": "2.4.0",
+    "Microsoft.ApplicationInsights.PersistenceChannel": "1.2.3",
+    "Microsoft.ApplicationInsights.WindowsApps": "1.1.1",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.3.3"
+  },
+  "frameworks": {
+    "uap10.0.14393": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}

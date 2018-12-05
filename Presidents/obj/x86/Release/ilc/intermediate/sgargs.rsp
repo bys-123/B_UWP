@@ -1,0 +1,11 @@
+/out:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\intermediate\\"
+/ref:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\in"
+/ref:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\x86\ilc\lib\Private\\"
+/ref:"C:\Users\v-chzha4\Documents\repository\VSTS\B-UWP-President\Presidents\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\v-chzha4\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\x86\ilc\csc"
